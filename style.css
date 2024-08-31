@@ -1,0 +1,54 @@
+.main-content{
+    background-color: hsl(47, 88%, 63%);
+    position: sticky;
+    
+}
+.box{
+    background-color: hsl(0, 0%, 100%);
+    border: 2px solid black;
+    width: 350px;
+    height: 500px;
+    margin: 30px auto;
+    box-shadow: 10px 10px 3px black;
+    /* position: absolute;
+    top: 40%;
+    left: 40%; */
+    border-radius: 20px;
+}
+.first-image img{
+    width: 300px;
+    height: 180px;
+    border-radius: 20px;
+    margin: 25px;
+    
+   
+}
+.text-content{
+    padding-left: 25px;
+    font-size: 16px;
+    font-family: "Figtree", sans-serif;
+
+
+}
+.btn{
+    background-color:hsl(47, 88%, 63%);
+    font-weight: bolder;
+    border-radius: 4px;
+    border: 2px ;
+    
+
+}
+.content{
+    color: hsl(0, 0%, 42%);
+}
+.icon-image p {
+    border-radius: 50%;
+    display: inline-block;
+    font-weight: 900;
+    position: relative;
+    bottom: 15px;
+
+}
+h2:hover {
+    color:hsl(47, 88%, 63%);
+  }
